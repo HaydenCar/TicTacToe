@@ -28,7 +28,6 @@ public class Main {
                 turn++;
             }
         }
-        PrintBoard.print(board);
     }
 }
 
